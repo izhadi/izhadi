@@ -21,27 +21,19 @@
 ## 🛠 Tools I Use
 
 <p>
-  <!-- Figma -->
-  <img src="/Figma.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/Figma.svg" width="40" height="40"  />
   &nbsp;&nbsp;&nbsp;
-  <!-- Framer -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/framer.svg" width="90" height="90" />
   &nbsp;&nbsp;&nbsp;
-  <!-- Webflow -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/webflow.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/webflow.svg" width="90" height="90"/>
   &nbsp;&nbsp;&nbsp;
-  <!-- Shopify -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/shopify.svg" width="90" height="90"/>
   &nbsp;&nbsp;&nbsp;
-  <!-- WordPress -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/wordpress.svg" width="90" height="90"/>
   &nbsp;&nbsp;&nbsp;
-  <!-- ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:8px;" />
+  <img src="/vscode.svg" width="90" height="90"/>
   &nbsp;&nbsp;&nbsp;
-  <!-- GitHub Copilot -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/copilot/copilot.png" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/Gitub Co.svg" width="90"/>
   &nbsp;&nbsp;&nbsp;
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/Chatgpt.svg" width="90" height="90"/>
 </p>
