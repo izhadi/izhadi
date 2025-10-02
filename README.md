@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Software Engineer grad | Digital Product Designer | Code & vibe enthusiast | Here to tinker and build cool stuff. Always exploring new ideas
+- 🔭 Software Engineer grad | Digital Product Designer | Here to tinker and build cool stuff. Always exploring new ideas
 - 📫 How to reach me: <Br>
 
   <a href="https://www.linkedin.com/in/mohammadreza-haghighi/">Linkedin</a>
@@ -33,5 +33,5 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Gitub Co.svg" width="90"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Chatgpt.svg" width="90" height="90"/>
+  <!-- <img src="/Chatgpt.svg" width="90" height="90"/> -->
 </p>
