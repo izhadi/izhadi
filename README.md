@@ -22,7 +22,7 @@
 
 <p>
   <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
+  <img src="/Figma.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
   &nbsp;&nbsp;&nbsp;
   <!-- Framer -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="40" height="40" style="margin: 16px; background:#1e1e1e; padding:16px; border-radius:12px;" />
