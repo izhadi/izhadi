@@ -18,47 +18,48 @@
 </div>
 
 
-## 🛠 Tools & Technologies
+## 🛠 Tools I Use
 
-<div align="center"  style="display:Flex;">
+<div align="center">
 
-  <!-- Row 1 -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </div>
-  
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  </div>
-  
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  </div>
-
-  <br/>
-
-  <!-- Row 2 -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  </div>
-  
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  </div>
-  
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </div>
-
-  <br/>
-
-  <!-- Row 3 -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
+  <!-- Figma -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   </div>
-  
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
+
+  <!-- Framer -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" height="40"/>
+  </div>
+
+  <!-- Webflow -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="40" height="40"/>
+  </div>
+
+  <!-- Shopify -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" height="40"/>
+  </div>
+
+  <!-- WordPress -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+  </div>
+
+  <!-- ChatGPT (استفاده از آیکون OpenAI) -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/>
+  </div>
+
+  <!-- GitHub Copilot (فعلا لوگوی GitHub جایگزین) -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </div>
+
+  <!-- VS Code -->
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   </div>
 
 </div>
