@@ -21,7 +21,7 @@
 ## 🛠 Tools I Use
 
 <p>
-  <img src="/Figma.svg" width="40" height="40"  />
+  <img src="/Figma.svg" width="90" height="90"  />
   &nbsp;&nbsp;&nbsp;
   <img src="/framer.svg" width="90" height="90" />
   &nbsp;&nbsp;&nbsp;
