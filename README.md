@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**izhadi/izhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=izhadi&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izhadi&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+
+</div>
+
+
+
+
