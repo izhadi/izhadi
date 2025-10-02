@@ -20,46 +20,28 @@
 
 ## 🛠 Tools I Use
 
-<div align="center">
-
+<p align="center">
   <!-- Figma -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  </div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+  
   <!-- Framer -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" height="40"/>
-  </div>
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+  
   <!-- Webflow -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="40" height="40"/>
-  </div>
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/webflow.svg" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+  
   <!-- Shopify -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" height="40"/>
-  </div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+  
   <!-- WordPress -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-  </div>
-
-  <!-- ChatGPT (استفاده از آیکون OpenAI) -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/>
-  </div>
-
-  <!-- GitHub Copilot (فعلا لوگوی GitHub جایگزین) -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+  
+  <!-- ChatGPT -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+  
+  <!-- GitHub Copilot -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/copilot/copilot.png" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+  
   <!-- VS Code -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  </div>
-
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="margin: 8px; background:#1e1e1e; padding:8px; border-radius:12px;" />
+</p>
