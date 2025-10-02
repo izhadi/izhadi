@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 - 🔭 Software Engineer grad | Digital Product Designer | Code & vibe enthusiast | Here to tinker and build cool stuff. Always exploring new ideas
-- 📫 How to reach me: ...
+- 📫 How to reach me: <Br>
+
   <a href="https://www.linkedin.com/in/mohammadreza-haghighi/">Linkedin</a>
+    &nbsp;&nbsp;&nbsp;
   <a href="Mailto:itshaghighi@yahoo.com">Email</a>
 
 <div>
