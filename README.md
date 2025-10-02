@@ -11,7 +11,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=izhadi&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" style="Margin-right:40px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=izhadi&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" style="margin-right:40px"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izhadi&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
 
@@ -20,29 +20,29 @@
 
 ## 🛠 Tools & Technologies
 
-<div align="center">
+<div align="center"  style="display:Flex;">
 
   <!-- Row 1 -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </div>
   
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   </div>
   
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   </div>
 
   <br/>
 
   <!-- Row 2 -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   </div>
   
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   </div>
   
@@ -53,11 +53,11 @@
   <br/>
 
   <!-- Row 3 -->
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   </div>
   
-  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:4px;">
+  <div style="display:inline-block; background:#1e1e1e; padding:8px; border-radius:12px; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </div>
 
