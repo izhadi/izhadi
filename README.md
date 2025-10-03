@@ -33,5 +33,5 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Gitub Co.svg" width="90"/>
   &nbsp;&nbsp;&nbsp;
-  <!-- <img src="/Chatgpt.svg" width="90" height="90"/> -->
+  <img src="/Chatgpt.svg" width="90" height="90"/>
 </p>
