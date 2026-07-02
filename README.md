@@ -10,9 +10,8 @@
 <div>
   
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=izhadi&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=izhadi&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=izhadi&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=izhadi&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=izhadi&theme=aura&hide_border=true)<br/>
 
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=izhadi&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" style="margin-right:40px"/>
 &nbsp;&nbsp;&nbsp;
